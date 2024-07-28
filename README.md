@@ -57,7 +57,6 @@ python -m unittest src.test_mod_three
 - src/mod_three.py: Contains the FSM implementation and the main function to compute the remainder.
 - src/mod_three_test.py: Contains unit tests for the FSM implementation.
 - run.py: Entry point to run the program with command line input.
-- requirements.txt: Lists the dependencies for the project.
 
 ## Examples
 
