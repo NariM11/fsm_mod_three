@@ -23,8 +23,8 @@ This project implements a Finite State Machine (FSM) to determine the remainder 
 1. Clone the repository:
 
    ```sh
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/NariM11/fsm_mod_three/
+   cd fsm_mod_three
    ```
 
 2. (Optional) Create and activate a virtual environment:
