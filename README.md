@@ -1,2 +1,2 @@
 # fsm_mod_three
-FSM to solve this mod-three problem.
+FSM to solve the mod-three problem.
