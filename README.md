@@ -11,7 +11,6 @@ This project implements a Finite State Machine (FSM) to determine the remainder 
   - `mod_three_test.py`
 - `README.md`
 - `run.py`
-- `requirements.txt`
 
 ## Prerequisites
 
